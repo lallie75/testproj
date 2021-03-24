@@ -1,0 +1,2 @@
+E:\dot net code\SpecflowSelenium\SpecflowSelenium\obj\Debug\SpecflowSelenium.csprojAssemblyReference.cache
+E:\dot net code\SpecflowSelenium\SpecflowSelenium\obj\Debug\SpecflowSelenium.csproj.CoreCompileInputs.cache
