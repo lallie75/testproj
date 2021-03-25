@@ -7065,11 +7065,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\git repo\\Dev\\COD\\SpecflowSelenium\\SeleniumSpecflowSample\\SeleniumSpecflowSample.csproj",
+      "projectUniqueName": "E:\\dot net code\\specflow with selinium\\SpecflowSelenium\\SeleniumSpecflowSample\\SeleniumSpecflowSample.csproj",
       "projectName": "SeleniumSpecflowSample",
-      "projectPath": "E:\\git repo\\Dev\\COD\\SpecflowSelenium\\SeleniumSpecflowSample\\SeleniumSpecflowSample.csproj",
+      "projectPath": "E:\\dot net code\\specflow with selinium\\SpecflowSelenium\\SeleniumSpecflowSample\\SeleniumSpecflowSample.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\git repo\\Dev\\COD\\SpecflowSelenium\\SeleniumSpecflowSample\\obj\\",
+      "outputPath": "E:\\dot net code\\specflow with selinium\\SpecflowSelenium\\SeleniumSpecflowSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
