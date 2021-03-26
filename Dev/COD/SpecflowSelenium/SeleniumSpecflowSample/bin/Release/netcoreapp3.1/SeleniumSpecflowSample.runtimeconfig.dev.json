@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\WINDOWS\\ServiceProfiles\\NetworkService\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\WINDOWS\\ServiceProfiles\\NetworkService\\.nuget\\packages"
+    ]
+  }
+}
