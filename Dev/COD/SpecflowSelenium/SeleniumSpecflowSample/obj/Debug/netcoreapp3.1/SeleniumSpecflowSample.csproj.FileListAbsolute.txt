@@ -345,3 +345,4 @@ E:\git repo\Dev\COD\SpecflowSelenium\SeleniumSpecflowSample\obj\Debug\netcoreapp
 E:\git repo\Dev\COD\SpecflowSelenium\SeleniumSpecflowSample\obj\Debug\netcoreapp3.1\SeleniumSpecflowSample.dll
 E:\git repo\Dev\COD\SpecflowSelenium\SeleniumSpecflowSample\obj\Debug\netcoreapp3.1\SeleniumSpecflowSample.pdb
 E:\git repo\Dev\COD\SpecflowSelenium\SeleniumSpecflowSample\obj\Debug\netcoreapp3.1\SeleniumSpecflowSample.genruntimeconfig.cache
+E:\git repo\Dev\COD\SpecflowSelenium\SeleniumSpecflowSample\obj\Debug\netcoreapp3.1\SeleniumSpecflowSample.csprojAssemblyReference.cache
